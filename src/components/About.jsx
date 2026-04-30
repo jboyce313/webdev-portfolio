@@ -25,7 +25,6 @@ export default function About() {
               <li>Custom website design &amp; development</li>
               <li>Landing pages &amp; business brochure sites</li>
               <li>Portfolio &amp; personal sites</li>
-              <li>Contact forms &amp; lead capture</li>
               <li>Mobile-responsive, accessible layouts</li>
               <li>Ongoing maintenance &amp; updates</li>
             </ul>

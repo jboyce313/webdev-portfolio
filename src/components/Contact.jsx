@@ -7,8 +7,8 @@ export default function Contact() {
           Interested in working together? Send me an email and I'll get back
           to you within a day or two.
         </p>
-        <a href="mailto:jboyce313@gmail.com" className="btn btn-primary contact-btn">
-          jboyce313@gmail.com
+        <a href="mailto:jboyce.webdev@gmail.com" className="btn btn-primary contact-btn">
+          jboyce.webdev@gmail.com
         </a>
       </div>
     </section>
