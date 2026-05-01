@@ -1,6 +1,14 @@
 const projects = [
   {
     id: 1,
+    name: 'Boulevard Lawncare',
+    description: 'Lawncare service site with service details, pricing, and contact information.',
+    url: 'https://boulevard-lawncare.vercel.app/',
+    tags: ['Small Business', 'Home Services'],
+    img: '/boulevard.png',
+  },
+  {
+    id: 2,
     name: 'Swimming with Lyndsay',
     description: 'Independent swim instructor site with class info, scheduling, and contact information.',
     url: 'https://swimmingwithlyndsay.com',
