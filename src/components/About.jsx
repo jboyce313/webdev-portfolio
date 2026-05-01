@@ -14,7 +14,7 @@ export default function About() {
             </p>
             <p>
               Now I focus on helping small businesses and independent clients
-              get online with fast, straightforward websites. No bloated
+              in Kansas City and beyond get online with fast, straightforward websites. No bloated
               templates, no unnecessary complexity — just well-built sites that
               represent you well and are easy to maintain.
             </p>

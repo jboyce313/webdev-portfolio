@@ -29,7 +29,7 @@ export default function Portfolio() {
           {projects.map((project) => (
             <div className="project-card" key={project.id}>
               <div className="project-thumb">
-                <img className="project-img" src={project.img} alt={project.name} />
+                <img className="project-img" src={project.img} alt={project.name} loading="lazy" />
               </div>
               <div className="project-info">
                 <h3 className="project-name">{project.name}</h3>
