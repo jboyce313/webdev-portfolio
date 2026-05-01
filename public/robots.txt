@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://jacob-boyce.com/sitemap.xml
