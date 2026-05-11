@@ -1,8 +1,10 @@
+import selfie from '../assets/selfie.jpg'
+
 export default function Hero() {
   return (
     <section className="hero" id="hero">
       <div className="hero-photo">
-        <img src="/selfie.jpg" alt="Jacob Boyce" className="hero-photo" width="400" height="400" fetchpriority="high" />
+        <img src={selfie} alt="Jacob Boyce" className="hero-photo" width="400" height="400" fetchpriority="high" />
       </div>
       <div className="hero-text">
         <h1>Jacob Boyce</h1>
