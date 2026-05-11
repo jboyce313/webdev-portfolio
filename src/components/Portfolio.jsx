@@ -15,6 +15,14 @@ const projects = [
     tags: ['Small Business', 'Health & Wellness'],
     img: '/swimmingwithlyndsay.png',
   },
+  {
+    id: 3,
+    name: 'Sweet Pops Co.',
+    description: 'E-commerce site for a fictional cake pops company, featuring product listings and order form.',
+    url: 'https://cake-pops.vercel.app/',
+    tags: ['E-commerce', 'Food & Beverage'],
+    img: '/cake-pops.png',
+  },
 ]
 
 export default function Portfolio() {
